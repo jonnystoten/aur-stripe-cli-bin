@@ -2,7 +2,7 @@
 
 pkgname=stripe-cli-bin
 pkgver=VERSION
-pkgrel=1
+pkgrel=REL
 pkgdesc="A command-line tool for Stripe"
 arch=("x86_64")
 url="https://stripe.com/docs/stripe-cli"
